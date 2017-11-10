@@ -1,3 +1,7 @@
+# File: caesar.rb
+# Name: Waris Aiemworawutikul
+# Desc : basic Caesar cipher machine.
+
 def caesar_cipher (text, number)
 	cipher = ''
 	text.each_char do |char|
